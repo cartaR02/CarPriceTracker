@@ -1,0 +1,5 @@
+16:01:32 selenium.webdriver.remote.remote_connection DEBUG    DELETE http://localhost:55901/session/01ec2a54-75b1-4b90-81b2-b659aa4334df {}
+16:01:33 urllib3.connectionpool DEBUG    http://localhost:55901 "DELETE /session/01ec2a54-75b1-4b90-81b2-b659aa4334df HTTP/11" 200 0
+16:01:33 selenium.webdriver.remote.remote_connection DEBUG    Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sun, 28 Jul 2024 20:01:31 GMT'})
+16:01:33 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+16:01:33 root         INFO     <class 'bs4.element.Tag'>

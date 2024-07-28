@@ -1,0 +1,58 @@
+16:06:16 selenium.webdriver.remote.remote_connection DEBUG    DELETE http://localhost:57163/session/b29ea7d1-bb5a-4eda-a18d-c68667dea512 {}
+16:06:16 urllib3.connectionpool DEBUG    http://localhost:57163 "DELETE /session/b29ea7d1-bb5a-4eda-a18d-c68667dea512 HTTP/11" 200 0
+16:06:16 selenium.webdriver.remote.remote_connection DEBUG    Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sun, 28 Jul 2024 20:06:16 GMT'})
+16:06:16 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+16:06:16 root         INFO     2024 Honda Civic Sport
+16:06:16 root         INFO     $27,900
+16:06:16 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-gray"></span>Sonic Gray Pearl Exterior</li>
+16:06:16 root         INFO     2024 Honda Civic LX
+16:06:16 root         INFO     $26,500
+16:06:16 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+16:06:16 root         INFO     2024 Honda Civic LX
+16:06:16 root         INFO     $26,500
+16:06:16 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+16:06:16 root         INFO     2024 Honda Civic LX
+16:06:16 root         INFO     $26,500
+16:06:16 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+16:06:16 root         INFO     2024 Honda Civic LX
+16:06:16 root         INFO     $26,500
+16:06:16 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+16:06:16 root         INFO     2024 Honda Civic Sport
+16:06:16 root         INFO     $26,645
+16:06:16 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-gray"></span>Meteorite Gray Metallic Exterior</li>
+16:06:16 root         INFO     2024 Honda Civic Sport
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-2bc79391ac181492d922a050af7ff73f.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'
+16:06:16 root         INFO     2024 Honda Civic Sport
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-5f0fba74ac1854b072ef951b0f7ec26b.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'
+16:06:16 root         INFO     2024 Honda Civic Sport
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-64659d0bac185cbe9419aaa53ac62a2f.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'
+16:06:16 root         INFO     2024 Honda Civic Sport
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-0780641fac181338b4efc24127505752.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'
+16:06:16 root         INFO     2024 Honda Civic Sport
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-2bc79b92ac18339c4c6d551630268a11.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'
+16:06:16 root         INFO     2024 Honda Civic Sport
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-50485f9cac181bd7cc106ca87f154f89.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'
+16:06:16 root         INFO     2024 Honda Civic Sport
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-504860b5ac184fd804b4da7a9b83bb2d.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'
+16:06:16 root         INFO     2024 Honda Civic Sport
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-50488ddcac181ca94760be3766e274d1.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'
+16:06:16 root         INFO     2024 Honda Civic Sport
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-5a4fcd72ac185cbe9419aaa547faebc1.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'
+16:06:16 root         INFO     2024 Honda Civic EX
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-5f0fbfa1ac1829c47e1b4aeb2e9dfe6a.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic EX</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'
+16:06:16 root         INFO     2024 Honda Civic EX
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-5f0fc8feac1853bcb17b6e674b782de8.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic EX</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'
+16:06:16 root         INFO     2024 Honda Civic EX
+16:06:16 root         DEBUG    <bound method Tag.prettify of <div class="vehicle-card-details-container p-0 mt-8"><h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-0d59ecd1ac1853d40618c6832918fc01.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic EX</a></h2><div class="row" data-testid="details-skeleton"><div class="col-xs-6"><div class="skeleton-listing"></div></div><div class="col-xs-6"><div class="skeleton-listing"></div></div></div></div>>
+16:06:16 root         ERROR    'NoneType' object has no attribute 'text'

@@ -1,0 +1,6 @@
+16:02:03 selenium.webdriver.remote.remote_connection DEBUG    DELETE http://localhost:56058/session/00e20814-64a9-4aaf-a1f5-dc4bec94188c {}
+16:02:03 urllib3.connectionpool DEBUG    http://localhost:56058 "DELETE /session/00e20814-64a9-4aaf-a1f5-dc4bec94188c HTTP/11" 200 0
+16:02:03 selenium.webdriver.remote.remote_connection DEBUG    Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sun, 28 Jul 2024 20:02:03 GMT'})
+16:02:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+16:02:03 root         INFO     <class 'str'>
+16:02:03 root         INFO     $27,900

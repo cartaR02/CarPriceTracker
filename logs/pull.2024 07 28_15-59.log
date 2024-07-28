@@ -1,0 +1,58 @@
+15:59:30 selenium.webdriver.remote.remote_connection DEBUG    DELETE http://localhost:55295/session/c31b8802-3169-471c-a607-1e4f8c20c5e5 {}
+15:59:30 urllib3.connectionpool DEBUG    http://localhost:55295 "DELETE /session/c31b8802-3169-471c-a607-1e4f8c20c5e5 HTTP/11" 200 0
+15:59:30 selenium.webdriver.remote.remote_connection DEBUG    Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sun, 28 Jul 2024 19:59:30 GMT'})
+15:59:30 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-9d419ad7ac1843b5c8339b1b49c35e5b.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2>
+15:59:30 root         INFO     <span class="price-value" data-style-editor-id="srp-new-price-value" data-style-editor-text=".srp .inv-type-new.pricing-detail .msrp .price-value">$27,900</span>
+15:59:30 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-gray"></span>Sonic Gray Pearl Exterior</li>
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-646f1eabac18131e600ca7ba6979e6ac.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic LX</a></h2>
+15:59:30 root         INFO     <span class="price-value" data-style-editor-id="srp-new-price-value" data-style-editor-text=".srp .inv-type-new.pricing-detail .final-price .price-value">$26,500</span>
+15:59:30 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-774d049fac181f8b00632ebe3c20510c.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic LX</a></h2>
+15:59:30 root         INFO     <span class="price-value" data-style-editor-id="srp-new-price-value" data-style-editor-text=".srp .inv-type-new.pricing-detail .final-price .price-value">$26,500</span>
+15:59:30 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-78fd020cac18131e600ca7ba358978a7.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic LX</a></h2>
+15:59:30 root         INFO     <span class="price-value" data-style-editor-id="srp-new-price-value" data-style-editor-text=".srp .inv-type-new.pricing-detail .final-price .price-value">$26,500</span>
+15:59:30 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-e5a768edac183ef6ff31dd2ad193f9a2.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic LX</a></h2>
+15:59:30 root         INFO     <span class="price-value" data-style-editor-id="srp-new-price-value" data-style-editor-text=".srp .inv-type-new.pricing-detail .final-price .price-value">$26,500</span>
+15:59:30 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-07805b85ac1820fe4417a51199111d58.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2>
+15:59:30 root         INFO     <span class="price-value" data-style-editor-id="srp-new-price-value" data-style-editor-text=".srp .inv-type-new.pricing-detail .final-price .price-value">$26,645</span>
+15:59:30 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-gray"></span>Meteorite Gray Metallic Exterior</li>
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-2bc79391ac181492d922a050af7ff73f.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-5f0fba74ac1854b072ef951b0f7ec26b.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-64659d0bac185cbe9419aaa53ac62a2f.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-0780641fac181338b4efc24127505752.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-2bc79b92ac18339c4c6d551630268a11.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-50485f9cac181bd7cc106ca87f154f89.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-504860b5ac184fd804b4da7a9b83bb2d.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-50488ddcac181ca94760be3766e274d1.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-5a4fcd72ac185cbe9419aaa547faebc1.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic Sport</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-5f0fbfa1ac1829c47e1b4aeb2e9dfe6a.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic EX</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-5f0fc8feac1853bcb17b6e674b782de8.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic EX</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None
+15:59:30 root         INFO     <h2 class="vehicle-card-title mt-0 d-block mb-0 justify-content-between align-items-end h5 inv-type-new" data-style-editor-price="true"><a href="/new/Honda/2024-Honda-Civic-0d59ecd1ac1853d40618c6832918fc01.htm"><span class="ddc-font-size-small"></span>2024 Honda Civic EX</a></h2>
+15:59:30 root         INFO     None
+15:59:30 root         INFO     None

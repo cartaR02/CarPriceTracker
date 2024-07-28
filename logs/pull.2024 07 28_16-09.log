@@ -1,0 +1,58 @@
+16:09:39 selenium.webdriver.remote.remote_connection DEBUG    DELETE http://localhost:58023/session/6b00028f-634d-401a-b6a7-50f07a7ddfab {}
+16:09:42 urllib3.connectionpool DEBUG    http://localhost:58023 "DELETE /session/6b00028f-634d-401a-b6a7-50f07a7ddfab HTTP/11" 200 0
+16:09:42 selenium.webdriver.remote.remote_connection DEBUG    Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '14', 'date': 'Sun, 28 Jul 2024 20:09:39 GMT'})
+16:09:42 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+16:09:42 root         INFO     2024 Honda Civic Sport
+16:09:42 root         INFO     $27,900
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-gray"></span>Sonic Gray Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic LX
+16:09:42 root         INFO     $26,500
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic LX
+16:09:42 root         INFO     $26,500
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic LX
+16:09:42 root         INFO     $26,500
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic LX
+16:09:42 root         INFO     $26,500
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic Sport
+16:09:42 root         INFO     $26,645
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-gray"></span>Meteorite Gray Metallic Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic Sport
+16:09:42 root         INFO     $26,645
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-red"></span>Rallye Red Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic Sport
+16:09:42 root         INFO     $27,100
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic Sport
+16:09:42 root         INFO     $27,445
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-black"></span>Crystal Black Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic Sport
+16:09:42 root         INFO     $27,900
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-gray"></span>Sonic Gray Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic Sport
+16:09:42 root         INFO     $27,900
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-white"></span>Platinum White Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic Sport
+16:09:42 root         INFO     $27,900
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-blue"></span>Boost Blue Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic Sport
+16:09:42 root         INFO     $27,900
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-blue"></span>Boost Blue Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic Sport
+16:09:42 root         INFO     $27,900
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-gray"></span>Sonic Gray Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic Sport
+16:09:42 root         INFO     $27,900
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-blue"></span>Boost Blue Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic EX
+16:09:42 root         INFO     $28,045
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-blue"></span>Aegean Blue Metallic Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic EX
+16:09:42 root         INFO     $28,045
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-black"></span>Crystal Black Pearl Exterior</li>
+16:09:42 root         INFO     2024 Honda Civic EX
+16:09:42 root         INFO     $28,500
+16:09:42 root         INFO     <li class="normalized-swatch-container exteriorColor"><span class="normalized-swatch normalized-swatch-gray"></span>Sonic Gray Pearl Exterior</li>
